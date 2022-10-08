@@ -60136,7 +60136,7 @@ else s.af(new A.a3J(s))},
 P(a){var s,r,q,p,o,n,m,l=this,k=null,j="* Required",i=t.w
 if(a.T(i).f.a.a>800){s=a.T(i).f
 r=a.T(i).f
-r=A.ac6(A.fy(k,A.abJ(A.a([A.zA(A.mk("Code for Fun",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,32,k,k,B.bV,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.hQ(k,8,k),A.zA(A.mk("Correct Email Example: ngm.gmail.com",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,12,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.hQ(k,8,k),A.zA(A.mk("Correct Password Example: Test123",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,12,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k)],t.Q),B.DJ,B.fH),B.E8,k,s.a.b,k,k,r.a.a))
+r=A.ac6(A.fy(k,A.abJ(A.a([A.zA(A.mk("Code for Fun",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,32,k,k,B.bV,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.hQ(k,8,k),A.zA(A.mk("Correct Email Example: ngm@gmail.com",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,12,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.hQ(k,8,k),A.zA(A.mk("Correct Password Example: Test123",k,k,k,A.fY(k,k,B.j,k,k,k,k,k,k,k,k,12,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k)],t.Q),B.DJ,B.fH),B.E8,k,s.a.b,k,k,r.a.a))
 s=r}else s=A.fy(k,k,k,k,k,k,k,k)
 r=a.T(i).f
 q=a.T(i).f
@@ -60146,7 +60146,7 @@ n=A.a([new A.uH(j),new A.B6("Enter valid email id")],o)
 m=$.V4
 p=A.um(k,A.fy(k,A.adB(B.Ag,!1,new A.a3M(l),new A.oc(n,m).gtb()),k,k,k,k,B.zE,400),k,k,k,k,p.a.b*0.3,k)
 n=a.T(i).f
-o=A.a([new A.uH(j),new A.CD(8,"Password should be atleast 6 characters"),new A.Cw(15,"Password should not be greater than 15 characters")],o)
+o=A.a([new A.uH(j),new A.CD(8,"Password should be atleast 8 characters"),new A.Cw(15,"Password should not be greater than 15 characters")],o)
 m=$.V4
 o=A.um(k,A.fy(k,A.adB(B.Af,!0,k,new A.oc(o,m).gtb()),k,k,k,k,B.zF,400),k,k,k,k,n.a.b*0.4,k)
 n=l.e
